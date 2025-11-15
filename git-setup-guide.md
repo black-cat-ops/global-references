@@ -96,7 +96,7 @@ git add filename.txt
 git add .  # Add all changes
 
 # Commit changes
-git -m "Your commit message"
+git commit -m "Your commit message"
 
 # Push to remote
 git push origin main
@@ -253,7 +253,7 @@ git clean -fd
 
 ```bash
 # Add all and commit in one line
-git add . && git cm "Your message"
+git add . && git commit -m "Your message"
 
 # Pull and push
 git pull && git push
