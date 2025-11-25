@@ -236,7 +236,7 @@ source venv/bin/activate
 
 # Verify the virtual environment is using 3.11
 python --version
-# Should show Python 3.11.x (inside the venv)
+# Should show Python 3.1x.x (inside the venv)
 ```
 
 ## If Homebrew Install Location Issues
