@@ -89,7 +89,7 @@ git clone https://github.com/username/repo.git
 
 ```bash
 # Check status
-git st  # or git status
+git status
 
 # Add files to staging
 git add filename.txt
