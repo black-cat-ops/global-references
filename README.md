@@ -1,5 +1,5 @@
 # global-references
-Main repository for all FAQs, Run books, and References
+Main repository for all helpful references and public-facing runbooks. 
 
  - [AWS CLI Reference Guide](https://github.com/black-cat-ops/global-references/blob/main/Tools/aws-cli.md)
  - [Git Setup and Use Guide with Shortcuts](https://github.com/black-cat-ops/global-references/blob/main/Tools/git-setup-guide.md)
